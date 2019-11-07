@@ -2,4 +2,4 @@
 
 Hello World!
 Learning is fun!
-Cool !
+Cool!
